@@ -1,0 +1,21 @@
+field,description
+student_id,Unique identifier by student
+teacher,OneGoal teacher in classroom
+first_name,Student first name
+last_name,Student last Name
+postsecondary_plans,Students latest postsecondary plans
+period,The class period in the school day where the OneGoal course is taught
+grade,Grade of high school
+champion_name,Students' champions name. A mentor that they enroll in the first semester of their Junior year.
+champion_relation,The relation between the champion and the student
+champion_email,Students champions email. A mentor that they enroll in the first semester of their Junior year.
+date_complete,Date in which the milestone / assignment was complete
+status,Status of Milestone (Complete or Not Started) 
+gpa_goal,The GPA goal set for the end of their junior year
+n_programs,The number of colleges and postsecondary programs on a students postsecondary list
+n_in_state,The number of colleges and postsecondary programs which are in state
+avg_graduation_rate,The average graduation rate of the programs the student selected to be on their postsecondary list
+n_match_programs,The number of match programs that the student has on their postsecondary list 
+success,A recent celebration that the student discussed with a OneGoal teacher in their last check in
+obstacles,A recent obstacle or roadblock that the student discussed with a OneGoal teacher in their last check in
+next_check_in_topic,What topic the student wants to discuss in their next check-in
