@@ -28,6 +28,8 @@ I received positive feedback from the team about the prototype's potential. The 
 Scope:  Create a data-view using a visualization tool of your choice for our OneGoal teachers (Program Directors)to understand their classroom trends, and how their individual students are doing relative to the four milestones above. Feel free to use any of the data provided that you think a Program Director can use to
 inform their classroom practice.  Then, in a few sentences, tell how you anticipate the OneGoal Program Director using this tool in their classroom.
 
+Product:  https://datastudio.google.com/reporting/a5cad520-ca17-4c17-bf48-c64eebbd3483/page/wQfcC?s=okAyQV8xfe0
+
 Analysis:  I anticipated a OneGoal teacher to use the tool to monitor and track their fellow milestone completion rates and their postsecondary plans.  With Year One deliverables including drafting a best-fit list and setting an ambitious GPA goal, the tool aims to support with action planning one-on-one advising sessions with Fellows.  Specifically, the tool aims to support the prioritization of students who are off-track due to incomplete milestones, or are in need of support given their self-reported goals, e.g. a low gpa goal, missing postsecondary plans, etc.  
 
 Consider all the data you have about students in “Andy Schmitz” cohort. Which three students should Mr.Schmitz prioritize in upcoming advising conversations? Why did you choose those three students?
