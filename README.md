@@ -1,13 +1,9 @@
-# 2021 OneGoal Analytics
-
-Dear DSSG Selection Committee,
-
-Please find here the data related projects requested for your review.  The following briefly describes the project and its intended outcome.
+# 2021 Student Performance Analytics
 
 # Overview
 
 What was the goal of the project?  
-To create a minimum vialble product for a teacher.  The product being a data-view using a visualization tool for our OneGoal teachers (Program Directors)to understand their classroom trends, and how their individual students are doing relative to the four milestones tracked by the OneGoal program.
+To create a minimum viable product for a teacher to monitor and track their class performance.  The product being a data-view using a visualization tool for our OneGoal teachers (Program Directors)to understand their classroom trends, and how their individual students are doing relative to the four milestones tracked by the OneGoal program.
 
 What methods and tools did you use?  
 Because the end-user of the work would be a public school teacher, and access to the technology on campus is alway an issue, I went ahead and used Google Suite applications because of their accessibility throughout the district and the familiriaty of use with both staff and faculty.  For this initial dashboard prototype, I use Google Sheets and Google Studios so that teachers could "see" what I was doing with their study data, and feel empowered to do any of the analytics themselves without the need of a coding background. 
